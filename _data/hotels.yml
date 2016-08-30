@@ -1,0 +1,217 @@
+---
+- title: Landhuishotel de Bloemenbeek
+  location: Lutte
+  tagline: SFEERVOL BOUTIQUEHOTEL
+  image: "/forestryio/images/Bloemenbeek1-1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=246&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Wellness
+  - Late check-out
+  night: 1
+  region: Noord-Nederland
+  area: Natuur
+- title: Bilderberg Grand Hotel Wientjes
+  location: Zwolle
+  tagline: CENTRUM ZWOLLE
+  image: "/forestryio/images/Wientjes1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=361&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 3-Gangen keuze diner
+  - Toegangskaarten museum Fundatie
+  night: 1
+  region: Noord-Nederland
+  area: Stad
+- title: Grand Hotel Opduin
+  location: Texel
+  tagline: ONTSPANNEN STRANDVAKANTIE
+  image: "/forestryio/images/Opduin1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=418&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 3-Gangen keuze diner
+  - Wellness
+  night: 1
+  region: Noord-Nederland
+  area: Kust
+- title: Kasteel Engelenburg
+  location: Brummen
+  tagline: ROMANTISCH KASTEELHOTEL
+  image: "/forestryio/images/Engelenburg1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=221&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Culinair 4-Gangendiner
+  - Fietshuur
+  night: 1
+  region: Midden-Nederland
+  area: Natuur
+- title: Grand Hotel Karel V
+  location: Utrecht
+  tagline: 5-STERRENHOTEL HARTJE UTRECHT
+  image: "/forestryio/images/Karel V Utrecht1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=232&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Fietshuur
+  - Wellness
+  night: 1
+  region: Midden-Nederland
+  area: Stad
+- title: Hotels van Oranje
+  location: Noordwijk
+  tagline: 'CHIQUE BEACH HOTEL '
+  image: "/forestryio/images/HOtels van Oranje1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=404&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 3-Gangendiner
+  - Wellness
+  night: 1
+  region: Midden-Nederland
+  area: Kust
+- title: Bilderberg Château Holtmühle
+  location: Tegelen
+  tagline: CHARMANTE KASTEELKAMERS
+  image: "/forestryio/images/Holtmuhle1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=461&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 4-Gangendiner
+  - Late check-out
+  night: 1
+  region: Zuid-Nederland
+  area: Natuur
+- title: Hampshire Hotel Fitland
+  location: Helmond
+  tagline: 15 MIN. VAN EINDHOVEN
+  image: "/forestryio/images/Fitland helmond1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=400&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Gastronomisch 3-Gangendiner
+  - Wellness
+  night: 1
+  region: Zuid-Nederland
+  area: Stad
+- title: Grand Hotel Amrâth Kurhaus
+  location: Scheveningen
+  tagline: WAKKER WORDEN AAN ZEE
+  image: "/forestryio/images/Kurhaus1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=235&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1-Nacht incl. ontbijt voor 2 pers
+  - 3-Gangenmenu
+  - Late check-out
+  night: 1
+  region: Zuid-Nederland
+  area: Kust
+- title: Hampshire Paping Hotel & Spa
+  location: Ommen
+  tagline: SCHITTEREND GEBIED
+  image: "/forestryio/images/Paping Spa1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Gangen verrassingsdiner
+  - Uitgebreide wellnessfaciliteiten
+  night: 2
+  region: Noord-Nederland
+  area: Natuur
+- title: Post-Plaza Hotel & Grand Café
+  location: Leeuwarden
+  tagline: HIP HOTEL IN HARTJE CENTRUM
+  image: "/forestryio/images/Postplaza1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner
+  - Late check-out
+  night: 2
+  region: Noord-Nederland
+  area: Stad
+- title: IJmuiden Seaport Beach
+  location: IJmuiden aan Zee
+  tagline: 'STIJLVOL BEACH HOTEL '
+  image: "/forestryio/images/Seaport.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=122&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner
+  - Gratis gebruik sauna + Turks stoombad
+  night: 2
+  region: Noord-Nederland
+  area: Kust
+- title: Bilderberg Hotel de Buunderkamp
+  location: Wolfheze
+  tagline: 20 HECTARE EIGEN BOSGEBIED
+  image: "/forestryio/images/Buunderkamp1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=430&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner
+  - Fietshuur + fietsroutes
+  night: 2
+  region: Midden-Nederland
+  area: Natuur
+- title: Bilderberg Parkhotel
+  location: Rotterdam
+  tagline: TRENDY HOTEL IN HART VAN RDAM
+  image: "/forestryio/images/Parkhotel1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=453&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - Late check-out
+  - Vlakbij museumpark & winkelstraten
+  night: 2
+  region: Midden-Nederland
+  area: Stad
+- title: Bilderberg Europa Hotel
+  location: Scheveningen
+  tagline: 'GEZELLIGE BOULEVARD '
+  image: "/forestryio/images/Europa hotel1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - Gratis late check-out
+  - Veel winkels & cultuur
+  night: 2
+  region: Midden-Nederland
+  area: Kust
+- title: Thermae2OOO
+  location: Valkenburg aan de Geul
+  tagline: SFEERVOL SAUNALANDSCHAP
+  image: "/forestryio/images/Thermae1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Dagen wellnessentree
+  - Prachtige omgeving
+  night: 2
+  region: Zuid-Nederland
+  area: Natuur
+- title: Hotel de Pauwenhof
+  location: Maastricht
+  tagline: GEZELLIG HOTEL IN CENTRUM
+  image: "/forestryio/images/Pauwenhof1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=419&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner
+  - Op 5 min. van Vrijthof
+  night: 2
+  region: Zuid-Nederland
+  area: Stad
+- title: Grand Hotel Ter Duin
+  location: Burgh-Haamstede
+  tagline: PRACHTIG ZEELAND
+  image: "/forestryio/images/Ter Duin1.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=432&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2-Nachten incl. ontbijt voor 2 pers
+  - Early check-in + Late check-out
+  - 3-Gangendiner
+  night: 2
+  region: Zuid-Nederland
+  area: Kust
