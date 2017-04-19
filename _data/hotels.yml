@@ -83,34 +83,34 @@
   night: 1
   region: Midden-Nederland
   area: Stad
-- title: Post-Plaza Hotel & Grand Café
-  location: Leeuwarden
-  tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
-  image: "/img/hotels/Post-plaza.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
+- title: Kasteel Bloemendal
+  location: Vaals
+  tagline: HIGH WINE IN LIMBURGS KASTEEL
+  image: "/uploads/2017/04/19/Bloemendal.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=227&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
-  - 3-Gangendiner voor 2 pers
-  - Gebruik van Wellness
+  - High Wine voor 2 pers
+  - Overnachten in een kasteel
   night: 2
-  region: Noord-Nederland
+  region: Zuid-Nederland
   area: Natuur
-- title: Huis ten Wolde
-  location: De Bult
-  tagline: ART & WELLNESS HOTEL
-  image: "/img/hotels/Huis-ten-wolde.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=
+- title: Hampshire Hotel Leiden
+  location: Leiden
+  tagline: WELLNESS MET UITZICHT OVER DE STAD
+  image: "/uploads/2017/04/19/Leiden.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=398&country=1&la=2&autoLogin=true&actie=
   points:
-  - 3 Nachten incl. ontbijt voor 2 pers
-  - Facial of Massage voor 2 pers
-  - Gebruik van Wellness
-  night: 3
-  region: Noord-Nederland
-  area: Natuur
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 2 Dagen toegang tot alle wellness faciliteiten
+  - In het centrum van Leiden
+  night: 2
+  region: Midden-Nederland
+  area: Stad
 - title: Thermae 2OOO
   location: Valkenburg aan de Geul
   tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
-  image: "/img/hotels/Thermea2000.jpg"
+  image: "/uploads/2017/04/19/Thermae.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -119,3 +119,15 @@
   night: 2
   region: Zuid-Nederland
   area: Natuur
+- title: Sanadome
+  location: 'Nijmegen '
+  tagline: 4-STERRENHOTEL MET SPA EN WELLNESS
+  image: forestryio/images/Thermae1.jpg
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=497&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Toegang tot de Thermen en de fitness
+  - Licht & Aromatherapie
+  night: 1
+  region: Zuid-Nederland
+  area: Stad
