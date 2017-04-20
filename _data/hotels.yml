@@ -1,13 +1,4 @@
 ---
-- title: ''
-  location: ''
-  tagline: BEKIJK ALLE HOTELS
-  image: "/uploads/2017/04/20/Bekijkallehotels.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?&country=1&la=2&autoLogin=true&actie=
-  points: []
-  night: ''
-  region: ''
-  area: ''
 - title: Hampshire Hotel American
   location: Amsterdam
   tagline: ONTDEK BRUISEND AMSTERDAM
@@ -140,3 +131,12 @@
   night: 1
   region: Zuid-Nederland
   area: Stad
+- title: ''
+  location: ''
+  tagline: BEKIJK ALLE HOTELS
+  image: "/uploads/2017/04/20/Bekijkallehotels.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?&country=1&la=2&autoLogin=true&actie=
+  points: []
+  night: ''
+  region: ''
+  area: ''
