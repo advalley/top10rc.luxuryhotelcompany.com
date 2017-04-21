@@ -12,16 +12,16 @@
   region: Midden-Nederland
   area: Stad
 - title: Lindner Hotel & City Lounge
-  location: Antwerpen (BE)
+  location: Antwerpen
   tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
   image: "/uploads/2017/04/20/Antw.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=482&country=4&la=2&autoLogin=true&actie=
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
   - Gebruik van Fitness en Sauna
   - Naast Antwerpen CS
   night: 2
-  region: Belgie
+  region: België
   area: Stad
 - title: Grand Hotel Karel V
   location: Utrecht
