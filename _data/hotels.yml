@@ -11,18 +11,18 @@
   region: Midden-Nederland
   tagline: ONTDEK BRUISEND AMSTERDAM
   title: Hampshire Hotel American
-- area: Stad
-  image: "/uploads/2017/04/20/Antw.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
-  location: Antwerpen
-  night: 2
+- area: Natuur
+  image: "/uploads/2017/04/19/Westerlee.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=100&country=1&la=2&autoLogin=true&actie=
+  location: Westerlee
+  night: 1
   points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - Gebruik van Fitness en Sauna
-  - Naast Antwerpen CS
-  region: België
-  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
-  title: Lindner Hotel & City Lounge
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - High tea voor 2 pers
+  - Vrij gebruik van sauna en zwembad
+  region: Noord-Nederland
+  tagline: HEERLIJKE HIGH TEA OP LUXE LANDGOED
+  title: Landgoed Westerlee
 - area: Stad
   image: "/img/hotels/Post-plaza.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
@@ -59,18 +59,6 @@
   region: Zuid-Nederland
   tagline: CULINAIR GENIETEN IN BREDA
   title: Hotel Nassau
-- area: Natuur
-  image: "/uploads/2017/04/19/Westerlee.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=100&country=1&la=2&autoLogin=true&actie=
-  location: Westerlee
-  night: 1
-  points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - High tea voor 2 pers
-  - Vrij gebruik van sauna en zwembad
-  region: Noord-Nederland
-  tagline: HEERLIJKE HIGH TEA OP LUXE LANDGOED
-  title: Landgoed Westerlee
 - area: Stad
   image: "/uploads/2017/04/19/Coevorden.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=488&country=1&la=2&autoLogin=true&actie=
@@ -84,6 +72,18 @@
   tagline: WIJN PROEVEN AAN HET HAVENTJE
   title: Kasteel Coevorden
 - area: Stad
+  image: "/uploads/2017/04/20/Antw.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
+  location: Antwerpen
+  night: 2
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - Gebruik van Fitness en Sauna
+  - Naast Antwerpen CS
+  region: België
+  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
+  title: Lindner Hotel & City Lounge
+- area: Stad
   image: "/uploads/2017/04/19/Golden tulip central.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=330&country=1&la=2&autoLogin=true&actie=
   location: "'s Hertogenbosch"
@@ -95,18 +95,6 @@
   region: Midden-Nederland
   tagline: ONTDEK BOURGONDISCH BRABANT
   title: Golden Tulip Hotel Central
-- area: Natuur
-  image: "/uploads/2017/07/17/Hotel de Bilderberg.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=451&country=1&la=2&autoLogin=true&actie=
-  location: Oosterbeek
-  night: 2
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 3 Gangendiner voor 2 personen
-  - 'Fiets- en wandelroutes '
-  region: Midden-Nederland
-  tagline: KOM TOT RUST IN DE VELUWE
-  title: Hotel de Bilderberg
 - area: Stad
   image: "/uploads/2017/04/19/Leiden.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=398&country=1&la=2&autoLogin=true&actie=
@@ -119,6 +107,18 @@
   region: Midden-Nederland
   tagline: WELLNESS MET UITZICHT OVER DE STAD
   title: Hampshire Hotel Leiden
+- area: Natuur
+  image: "/uploads/2017/07/17/Hotel de Bilderberg.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=451&country=1&la=2&autoLogin=true&actie=
+  location: Oosterbeek
+  night: 2
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3 Gangendiner voor 2 personen
+  - 'Fiets- en wandelroutes '
+  region: Midden-Nederland
+  tagline: KOM TOT RUST IN DE VELUWE
+  title: Hotel de Bilderberg
 - area: Natuur
   image: "/uploads/2017/04/19/Thermae.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=504&country=1&la=2&autoLogin=true&actie=
