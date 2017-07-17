@@ -1,145 +1,145 @@
 ---
-- title: Hampshire Hotel American
-  location: Amsterdam
-  tagline: ONTDEK BRUISEND AMSTERDAM
+- area: Stad
   image: "/uploads/2017/04/19/American.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=291&country=1&la=2&autoLogin=true&actie=
+  location: Amsterdam
+  night: 1
   points:
   - 1 Nacht incl. ontbijt voor 2 pers
   - Gebruik van stadsfietsen
   - Welkomstdrankje in de hotelbar
-  night: 1
   region: Midden-Nederland
-  area: Stad
-- title: Lindner Hotel & City Lounge
-  location: Antwerpen
-  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
+  tagline: ONTDEK BRUISEND AMSTERDAM
+  title: Hampshire Hotel American
+- area: Stad
   image: "/uploads/2017/04/20/Antw.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
+  location: Antwerpen
+  night: 2
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
   - Gebruik van Fitness en Sauna
   - Naast Antwerpen CS
-  night: 2
   region: België
-  area: Stad
-- title: Grand Hotel Karel V
-  location: Utrecht
-  tagline: OVERNACHTEN IN HISTORISCH UTRECHT
-  image: "/uploads/2017/04/19/KarelV.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=232&country=1&la=2&autoLogin=true&actie=
+  tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
+  title: Lindner Hotel & City Lounge
+- area: Stad
+  image: "/img/hotels/Post-plaza.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
+  location: Leeuwarden
+  night: 2
   points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - Gebruik van wellness, sauna, stoombad en meer
-  - Gebruik van fietsen tijdens uw verblijf
-  night: 1
-  region: Midden-Nederland
-  area: Stad
-- title: Hotel Nassau
-  location: Breda
-  tagline: CULINAIR GENIETEN IN BREDA
-  image: "/uploads/2017/04/19/Nassau.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=497&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - 3-Gangen verrassingsdiner
-  - City guide voor Breda
-  night: 1
-  region: Zuid-Nederland
-  area: Stad
-- title: Landgoed Westerlee
-  location: Westerlee
-  tagline: HEERLIJKE HIGH TEA OP LUXE LANDGOED
-  image: "/uploads/2017/04/19/Westerlee.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=100&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - High tea voor 2 pers
-  - Vrij gebruik van sauna en zwembad
-  night: 1
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3 Gangendiner voor 2 personen
+  - Vrij gebruik van wellnessfaciliteiten
   region: Noord-Nederland
-  area: Natuur
-- title: Kasteel Coevorden
-  location: Coevorden
-  tagline: WIJN PROEVEN AAN HET HAVENTJE
-  image: "/uploads/2017/04/19/Coevorden.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=488&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 5-Gangendiner voor 2 pers
-  - High Wine voor 2 pers
-  night: 2
-  region: Midden-Nederland
-  area: Stad
-- title: Golden Tulip Hotel Central
-  location: "'s Hertogenbosch"
-  tagline: ONTDEK BOURGONDISCH BRABANT
-  image: "/uploads/2017/04/19/Golden tulip central.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=330&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - Proeverij in de Brasserie incl. bijpassende wijnen
-  - Koffie met een Bossche bol
-  night: 1
-  region: Midden-Nederland
-  area: Stad
-- title: Kasteel Bloemendal
-  location: Vaals
-  tagline: HIGH WINE IN LIMBURGS KASTEEL
-  image: "/uploads/2017/04/19/Bloemendal.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=227&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - High Wine voor 2 pers
-  - Overnachten in een kasteel
-  night: 2
-  region: Zuid-Nederland
-  area: Natuur
-- title: Hampshire Hotel Leiden
-  location: Leiden
-  tagline: WELLNESS MET UITZICHT OVER DE STAD
-  image: "/uploads/2017/04/19/Leiden.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=398&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 2 Dagen toegang tot alle wellness faciliteiten
-  - In het centrum van Leiden
-  night: 2
-  region: Midden-Nederland
-  area: Stad
-- title: Thermae 2OOO
-  location: Valkenburg aan de Geul
-  tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
-  image: "/uploads/2017/04/19/Thermae.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=504&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 3 Nachten incl. ontbijt voor 2 pers
-  - 4 Dagen toegang tot alle wellness faciliteiten
-  - Keuze uit een van de wellness sessies
-  night: 3
-  region: Zuid-Nederland
-  area: Natuur
-- title: Sanadome
-  location: 'Nijmegen '
-  tagline: 4-STERRENHOTEL MET SPA EN WELLNESS
+  tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
+  title: 'Post-Plaza Hotel & Grand Café '
+- area: Stad
   image: "/uploads/2017/07/13/Sanadome.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=397&country=1&la=2&autoLogin=true&actie=
+  location: 'Nijmegen '
+  night: 1
   points:
   - 1 Nacht incl. ontbijt voor 2 pers
   - Toegang tot de Thermen en de fitness
   - Licht & Aromatherapie
-  night: 1
   region: Zuid-Nederland
-  area: Stad
-- title: ''
-  location: ''
-  tagline: BEKIJK ALLE HOTELS
+  tagline: 4-STERRENHOTEL MET SPA EN WELLNESS
+  title: Sanadome
+- area: Stad
+  image: "/uploads/2017/04/19/Nassau.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=497&country=1&la=2&autoLogin=true&actie=
+  location: Breda
+  night: 1
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - 3-Gangen verrassingsdiner
+  - City guide voor Breda
+  region: Zuid-Nederland
+  tagline: CULINAIR GENIETEN IN BREDA
+  title: Hotel Nassau
+- area: Natuur
+  image: "/uploads/2017/04/19/Westerlee.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=100&country=1&la=2&autoLogin=true&actie=
+  location: Westerlee
+  night: 1
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - High tea voor 2 pers
+  - Vrij gebruik van sauna en zwembad
+  region: Noord-Nederland
+  tagline: HEERLIJKE HIGH TEA OP LUXE LANDGOED
+  title: Landgoed Westerlee
+- area: Stad
+  image: "/uploads/2017/04/19/Coevorden.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=488&country=1&la=2&autoLogin=true&actie=
+  location: Coevorden
+  night: 2
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 5-Gangendiner voor 2 pers
+  - High Wine voor 2 pers
+  region: Midden-Nederland
+  tagline: WIJN PROEVEN AAN HET HAVENTJE
+  title: Kasteel Coevorden
+- area: Stad
+  image: "/uploads/2017/04/19/Golden tulip central.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=330&country=1&la=2&autoLogin=true&actie=
+  location: "'s Hertogenbosch"
+  night: 1
+  points:
+  - 1 Nacht incl. ontbijt voor 2 pers
+  - Proeverij in de Brasserie incl. bijpassende wijnen
+  - Koffie met een Bossche bol
+  region: Midden-Nederland
+  tagline: ONTDEK BOURGONDISCH BRABANT
+  title: Golden Tulip Hotel Central
+- area: Natuur
+  image: "/uploads/2017/04/19/Bloemendal.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=227&country=1&la=2&autoLogin=true&actie=
+  location: Vaals
+  night: 2
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - High Wine voor 2 pers
+  - Overnachten in een kasteel
+  region: Zuid-Nederland
+  tagline: HIGH WINE IN LIMBURGS KASTEEL
+  title: Kasteel Bloemendal
+- area: Stad
+  image: "/uploads/2017/04/19/Leiden.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=398&country=1&la=2&autoLogin=true&actie=
+  location: Leiden
+  night: 2
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 2 Dagen toegang tot alle wellness faciliteiten
+  - In het centrum van Leiden
+  region: Midden-Nederland
+  tagline: WELLNESS MET UITZICHT OVER DE STAD
+  title: Hampshire Hotel Leiden
+- area: Natuur
+  image: "/uploads/2017/04/19/Thermae.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=504&country=1&la=2&autoLogin=true&actie=
+  location: Valkenburg aan de Geul
+  night: 3
+  points:
+  - 3 Nachten incl. ontbijt voor 2 pers
+  - 4 Dagen toegang tot alle wellness faciliteiten
+  - Keuze uit een van de wellness sessies
+  region: Zuid-Nederland
+  tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
+  title: Thermae 2OOO
+- area: ''
   image: "/uploads/2017/04/20/Bekijkallehotels.jpg"
   link: http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&actie=%20MD2-2ZY4q&autoLogin=true
+  location: ''
+  night: ''
   points:
   - Boek nu en betaal pas in het hotel
   - Ruim 200 4- en 5-sterrenhotels
   - Arrangementen incl. veel extra’s
-  night: ''
   region: ''
-  area: ''
+  tagline: BEKIJK ALLE HOTELS
+  title: ''
